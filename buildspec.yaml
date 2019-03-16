@@ -2,7 +2,7 @@ version: 0.2
 
 env:
     variables:
-        S3_BUCKET: "serverlessapp-bkt-2019"
+        S3_BUCKET: "serverlessapp-bkt-2019-karthik051190"
         #APP_NAME: "<APP_NAME_HERE>"
         BUILD_ENV : "prod"
 
