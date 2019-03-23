@@ -1,6 +1,6 @@
 version: 0.2
 
-env:
+env: 
     variables:
         S3_BUCKET: "utd-bootcamp-app-bkt-2019"
         #APP_NAME: "<APP_NAME_HERE>"
